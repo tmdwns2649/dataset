@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Rhinoceros059.jpg</filename>
+	<path>/my-project-name/Rhinoceros059.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Rhinoceros</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>41</ymin>
+			<xmax>203</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
